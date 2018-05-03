@@ -1,22 +1,20 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: IIFL Markets
+  i18n: iiflMarkets
+  url: https://play.google.com/store/apps/details?id=com.indiainfoline&hl=en_IN
+  img: /static/assets/img/landing/marketlogo.png
+  desc: An full fletched app for Financial market investors with the freedom to monitor stock market hassel free anywhere at one place.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Gray Routes
+  i18n: grayRoutes
+  url: https://grayroutes.in/
+  img: /static/assets/img/landing/grayRoutes.png
+  desc: It provides field-force mapping and distribution optimization software. Uses GIS systems to provide solutions to tackle the distribution problems faced by large scale distributors.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Vacation Labs
+  i18n: vacationLabs
+  url: http://www.vacationlabs.com/tour-operator-agent-login/
+  img: /static/assets/img/landing/vacationLabs.png
+  desc: All in one booking app to let tour/travel operators to manage bookings and slots. Make payements to customers and have the flexibility to manage alerts and notifications.
