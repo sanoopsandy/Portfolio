@@ -1,27 +1,41 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: India Infoline
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Worked on some in house projects and the IIFL Markets app that has over 1 million downloads. Built a Market Chatbot call IIFL Markets and is live on google assistant.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: May. 2017
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Android Developer
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Gray Routes
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Worked on structuring serivce based apps and working on GIS platforms like ARCGIS to develop a efficient routing app that can be used for deliveries.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Oct. 2016
+    i18n: company_b_date
+  job:
+    detail: Android Developer/PHP
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Vacation Labs
+    i18n: company_b
+  desc:
+    detail: Worked on creating a booking platforms for tour/travel operators. Majorly worked on the Android app and worked on the Web backend as well.
+    i18n: company_b_desc
+  date:
+    detail: July. 2015
     i18n: company_b_date
   job:
     detail: Full Stack Developer
