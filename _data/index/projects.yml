@@ -13,6 +13,24 @@
   img: /static/assets/img/landing/iiflChatbot.png
   desc: A conversational Chatbot that can be used on the go to fetch latest market update, it even gives suggestions on what stocks to hold or sell. A robust bot that responds to the user smartly.
 
+- name: CV LOS
+  i18n: cvLos
+  url: https://play.google.com/store/apps/details?id=cvlos.iifl.com.cv_los
+  img: /static/assets/img/landing/cvlos.png
+  desc: An app to ease out the process of giving car vehicle loans. The project covers all the data required in a series of forms and make the process of gathering information for getting loans hagglefree.
+
+- name: HFC InstaLoan
+  i18n: hfcInstaLoan
+  url: https://play.google.com/store/apps/details?id=com.iifl.hfcinstaloans
+  img: /static/assets/img/landing/instaloan.png
+  desc: An app to ease out the process of giving home loans. Since the process of getting home loans can be quite a painful task, the app makes it interactive and easy for the user to enter his/her information and generate a e-approval form in less that 4 days.
+
+- name: HFC Collection
+  i18n: hfcCollection
+  url: https://play.google.com/store/apps/details?id=com.iifl.com.hfc_collection
+  img: /static/assets/img/landing/hfcCollection.png
+  desc: Collection is an app that is used for tracking user loan status and schedule appointments with the client and handle buisness related meetings and make a note of the buisness transactions on the go.
+
 - name: Gray Routes
   i18n: grayRoutes
   url: https://grayroutes.in/
