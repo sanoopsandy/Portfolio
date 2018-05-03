@@ -10,7 +10,7 @@
 - name: Market Chatbot
   i18n: marketBot
   url: https://assistant.google.com/services/a/uid/0000007580b87138?hl=en&source=web
-  img: /static/assets/img/landing/marketlogo.png
+  img: /static/assets/img/landing/iiflChatbot.png
   desc: A conversational Chatbot that can be used on the go to fetch latest market update, it even gives suggestions on what stocks to hold or sell. A robust bot that responds to the user smartly.
 
 - name: Gray Routes
