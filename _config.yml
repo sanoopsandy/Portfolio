@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-android
     - name: icon-java
-  desc: Hello, I am Sanoop Sashindran and I develop softwares. I work mostly on the Android platform, although I have a some experience in RoR, AngularJs and PHP. Code versioning is one of my strong points apart from development, in Love with GitHub. Other than that I am hooked on to the rising Machine Learning/AI environment and trying to find a place in it. :) # Describe yourself.
+  desc: Hello, I am Sanoop Sashindran AKA a lazy developeer. I work mostly on the Android and React platform, although I have a some experience in RoR, AngularJs and PHP. Code versioning and structuing is one of my strong points, in Love with GitHub. Other than that I am hooked on to the rising Machine Learning/AI environment and trying to find a place in it. :) # Describe yourself.
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

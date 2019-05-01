@@ -1,6 +1,12 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: FinBox Money Manager
+  i18n: finbox
+  url: https://play.google.com/store/apps/details?id=in.finbox.pfm&hl=pt
+  img: https://lh3.googleusercontent.com/Z4M7RsViflWHcBXasOlOCakwDIxpUSY-Sa0TguGzNKGZOBR5GvDue_mZ1ab379guF4k=s180-rw
+  desc: FinBox is your free personal finance assistant. Never Miss a bill payment and plan your finances using the beautiful, free FinBox app. Online money management was never so easy. Automatically track all your bank accounts and credit cards in one beautifully created experience. Stay on top of your budgets through FinBox wealth management app.
+
 - name: IIFL Markets
   i18n: iiflMarkets
   url: https://play.google.com/store/apps/details?id=com.indiainfoline&hl=en_IN

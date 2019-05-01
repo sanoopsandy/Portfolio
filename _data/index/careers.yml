@@ -1,6 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: FinBox
+    i18n: company_a
+  desc:
+    detail: Worked on capturing alternate date from android devices and providing a financial score card for the user. Designed and developed bank statement scrapper in React js and puppeteer.
+    i18n: company_a_desc
+  date:
+    detail: Aug. 2018
+    i18n: company_a_date
+  job:
+    detail: Android and React Developer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
     detail: India Infoline
     i18n: company_a
   desc:
