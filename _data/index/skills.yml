@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, Android, Kotlin, Java, HTML5, Machine Learing, Python, RoR, PHP, AngularJS, NodeJS
-percentage: 95, 90, 85, 90, 60, 40, 55, 60, 65, 70, 70
+aspects: GitHub, Android, Kotlin, Java, React, HTML5, Machine Learing, Python, RoR, PHP, AngularJS, NodeJS
+percentage: 95, 90, 85, 90, 80, 60, 40, 55, 60, 65, 65, 75
